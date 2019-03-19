@@ -22,7 +22,7 @@ Dataset and R code used in the following study: "Coevolutionary dynamics shape t
 
 # Statistical analysis.
 ## Phenotypic diversification
-We used a linear mixed model to test the effect of resources on phenotypic diversification.
+We used a linear mixed model to test the effect of resources on phenotypic diversification. We specified resources, time, type of organism (either phage or bacterium), and their interaction as fixed effects, and included replicate as a random effect.
 #### data
 - phenotypic_diversification.csv
 #### code
