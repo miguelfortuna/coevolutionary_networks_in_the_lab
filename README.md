@@ -8,8 +8,8 @@ Dataset and R code used in the following study: "Coevolutionary dynamics shape t
 - phenotypic_diversification.csv
 - betadiversity.csv
 - infectivity.csv
-- nestedness_global.csv
 - nestedness_contemporary.csv
+- nestedness_global.csv
 
 # R scripts for the statistical analysis
 ## files provided
