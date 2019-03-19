@@ -1,6 +1,6 @@
 # <a href="https://github.com/miguelfortuna/coevolutionary_networks_in_the_lab/blob/master/Coevolutionary%20dynamics%20shape%20the%20structure%20of%20bacteria-phage%20infection%20networks.pdf" target="_blank">Coevolutionary dynamics shape the structure of bacteria-phage infection networks.</a>
 
-Dataset and R code used in the following study: "Coevolutionary dynamics shape the structure of bacteria-phage infection networks", that will be published in Evolution (2019).
+Dataset and R code used in the following study: "Coevolutionary dynamics shape the structure of bacteria-phage infection networks", published in Evolution (2019).
 
 # Data were obtained from the file "database.csv"
 ## files provided
